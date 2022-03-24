@@ -1,16 +1,14 @@
 Leitachse finden:
 
     Wegdifferenz
-    0.06 in [m]
-
+    0.9999999999999999 in [m]
+    
     Winkeldifferenz
-    0.767944870877505 in [rad]  |  44.0 in [°]
-
-    Zeit welche die translatorische Achse benötigt: 0.09999999999999998s
-
-    Zeit welche die rotatorische Achse benötigt: 5.119632472516699s
-
-    Die Leitachse ist die rotatorische Achse. Die Zeit für die Bewegung ist: 5.119632472516699s.
+    0.8726646259971647 in [rad]  |  49.99999999999999 in [°]
+    
+    Zeit welche die translatorische Achse benötigt: 1.6666666666666663s
+    Zeit welche die rotatorische Achse benötigt: 5.81776417331443s
+    Die Leitachse ist die rotatorische Achse. Die Zeit für die Bewegung ist: 5.81776417331443s.
 
 Positionsberechnung:
 
